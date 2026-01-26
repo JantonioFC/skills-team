@@ -1,0 +1,15 @@
+# General
+.DS_Store
+.idea/
+.vscode/
+*.log
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Antigravity/Agent specific (optional, depending on preference)
+# artifact_metadata.json
