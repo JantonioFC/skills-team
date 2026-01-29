@@ -1,12 +1,12 @@
 # Ecosistema de Expertos IT - Antigravity Skills
 
-![Banner](https://img.shields.io/badge/Antigravity-Skills-purple) ![Status](https://img.shields.io/badge/Status-Active-green) ![Expertos](https://img.shields.io/badge/Roles-17-blue)
+![Banner](https://img.shields.io/badge/Antigravity-Skills-purple) ![Status](https://img.shields.io/badge/Status-Active-green) ![Expertos](https://img.shields.io/badge/Roles-18-blue)
 
 Este repositorio contiene una colección completa de **Habilidades (Skills)** diseñadas para potenciar asistentes de IA (Agentic AI), transformándolos en un equipo multidisciplinario de expertos en tecnología.
 
 ## 🚀 ¿Qué es esto?
 
-Es una "Consultora de Software Virtual". Al cargar este directorio en el contexto de tu agente de IA, habilitas 17 roles especializados que siguen estándares profesionales de la industria (2025-2026).
+Es una "Consultora de Software Virtual". Al cargar este directorio en el contexto de tu agente de IA, habilitas 18 roles especializados que siguen estándares profesionales de la industria (2025-2026).
 
 ## 📋 El Equipo (Roles Incluidos)
 
@@ -33,6 +33,7 @@ Es una "Consultora de Software Virtual". Al cargar este directorio en el context
 *   **Platform Engineer**: Developer Experience (DX).
 *   **QA Engineer**: Calidad y Pruebas.
 *   **Security Expert**: Ciberseguridad y Compliance.
+*   **Debugging Avanzado**: Análisis de errores y resolución de bugs complejos.
 
 ## 📖 Cómo Usar
 

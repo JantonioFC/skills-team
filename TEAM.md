@@ -13,6 +13,7 @@ Simplemente pídele al Asistente Principal: *"Invoca al experto en [Rol]"* o *"P
 | **Frontend Engineer** | `experto-frontend` | UI/UX, React, CSS y experiencia de usuario. |
 | **QA Engineer** | `experto-qa` | Estrategias de prueba, automatización y análisis de calidad. |
 | **Seguridad** | `experto-seguridad` | Auditorías, análisis de vulnerabilidades y Hardening. |
+| **Debugging Avanzado** | `experto-debugging` | Análisis de errores, profiling y resolución de bugs complejos. |
 
 ## 🚀 DevOps & Infraestructura
 | Rol | Habilidad | Descripción |
